@@ -1,5 +1,7 @@
 homepage: "https://www.itemwise.com"
 documentation: "https://github.com/trackuity/itemwise-gtm-template#readme"
 versions:
+  - sha: 04b85abcd01d9ffb3963d34ad59ecf8b913cadcc
+    changeNotes: Shorter description (within the 200-character limit); Terms of Service accepted in the template editor.
   - sha: 60bdbbe0765c2f70e3931ea83c903ce42124424d
     changeNotes: Initial release.
