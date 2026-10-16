@@ -1,0 +1,5 @@
+homepage: "https://www.itemwise.com"
+documentation: "https://github.com/trackuity/itemwise-gtm-template#readme"
+versions:
+  - sha: 60bdbbe0765c2f70e3931ea83c903ce42124424d
+    changeNotes: Initial release.
